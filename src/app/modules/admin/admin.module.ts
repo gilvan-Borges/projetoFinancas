@@ -8,6 +8,13 @@ import { RouterLink } from "@angular/router";
 import { AdminRoutingModule } from "./admin-routing.module";
 import { MatToolbarModule } from "@angular/material/toolbar";
 import { MatButtonModule } from "@angular/material/button";
+import { MatTableModule } from "@angular/material/table";
+import { MatPaginatorModule } from "@angular/material/paginator";
+import { MatSortModule } from "@angular/material/sort";
+import { MatCardModule } from "@angular/material/card";
+import { MatInputModule } from "@angular/material/input";
+import { MatFormFieldModule } from "@angular/material/form-field";
+
 
 @NgModule({    
     declarations: [
@@ -21,7 +28,15 @@ import { MatButtonModule } from "@angular/material/button";
         RouterLink,
         AdminRoutingModule,
         MatToolbarModule,
-        MatButtonModule
+        MatButtonModule,
+        MatTableModule,
+        MatPaginatorModule,
+        MatSortModule,
+        MatCardModule,
+        MatInputModule,
+        MatFormFieldModule
     ]
 })
 export class AdminModule { }
+
+

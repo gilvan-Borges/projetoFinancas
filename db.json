@@ -1,0 +1,69 @@
+{
+    "contas": [
+        {
+            "id": 1,
+            "nome": "Conta de Luz",
+            "data": "2025-03-10",
+            "valor": "350",
+            "tipo": "Despesas de casa"
+        },
+        {
+            "id": 2,
+            "nome": "Internet",
+            "data": "2025-03-15",
+            "valor": "120",
+            "tipo": "Despesas de casa"
+        },
+        {
+            "id": 3,
+            "nome": "Mensalidade Academia",
+            "data": "2025-03-05",
+            "valor": "200",
+            "tipo": "Saúde e bem-estar"
+        },
+        {
+            "id": 4,
+            "nome": "Plano de Saúde",
+            "data": "2025-03-20",
+            "valor": "450",
+            "tipo": "Saúde e bem-estar"
+        },
+        {
+            "id": 5,
+            "nome": "Supermercado",
+            "data": "2025-03-08",
+            "valor": "600",
+            "tipo": "Alimentação"
+        },
+        {
+            "id": 6,
+            "nome": "IPVA",
+            "data": "2025-03-25",
+            "valor": "900",
+            "tipo": "Veículo"
+        },
+        {
+            "id": 7,
+            "nome": "Combustível",
+            "data": "2025-03-12",
+            "valor": "300",
+            "tipo": "Transporte"
+        },
+        {
+            "id": 8,
+            "nome": "Cinema",
+            "data": "2025-03-18",
+            "valor": "80",
+            "tipo": "Lazer"
+        },
+        {
+            "id": 9,
+            "nome": "Curso de Inglês",
+            "data": "2025-03-22",
+            "valor": "500",
+            "tipo": "Educação"
+        }
+    ]
+}
+
+
